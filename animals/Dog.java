@@ -13,8 +13,6 @@ class Dog {
   }
 
   public static void main(String[] args) {
-    Dog leila = new Dog();
-    leila.bite();
-    leila.jump();
+    
   }
 }
